@@ -1,6 +1,6 @@
-const SLACK_VERIFICATION_TOKEN = 'AGxZVhJaKJYiBB4wB2TCR49U';
-const SLACK_BOT_TOKEN = 'xoxb-7519249008082-9359342245875-RjE9T5PvRfnQfRQkdo3CFlC8';
-const DIFY_API_KEY = 'app-DxmeyxjqCafshoDaBE5JFEX3';
+const SLACK_VERIFICATION_TOKEN = '********';
+const SLACK_BOT_TOKEN = '********';
+const DIFY_API_KEY = '*******';
 const DIFY_API_URL = 'https://api.dify.ai/v1/chat-messages';
 
 function doPost(e) {
